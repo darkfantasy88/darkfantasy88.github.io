@@ -1,7 +1,16 @@
-{
-  "Name": "Pumpkin Juice",
-  "Category": "Natural Juices",
-  "Price": 120.00,
-  "Image": null,
-  "Description": ""
-}
+[
+  {
+    "Name": "Pumpkin Juice",
+    "Category": "Natural Juices",
+    "Price": 120.00,
+    "Image": null,
+    "Description": ""
+  },
+  {
+    "Name": "Double Expresso",
+    "Category": "Hot Drinks",
+    "Price": 90.00,
+    "Image": null,
+    "Description": ""
+  }
+]
