@@ -5,5 +5,12 @@
     "Image": "Images/Ackee & Salt Fish.jpg",
     "Name": "Ackee & Salt Fish",
     "Price": 125.0
+  },
+  {
+    "Name": "Banana Fritters (Single)",
+    "Category": "Breakfast Items",
+    "Price": 75.0,
+    "Image": "Images/Banana Fritters (Single).jpg",
+    "Description": null
   }
 ]
