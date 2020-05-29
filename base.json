@@ -1,7 +1,9 @@
-{
-  "Category": "Breakfast Items",
-  "Description": null,
-  "Image": "Images/Ackee & Salt Fish.jpg",
-  "Name": "Ackee & Salt Fish",
-  "Price": 125.0
-}
+[
+  {
+    "Category": "Breakfast Items",
+    "Description": null,
+    "Image": "Images/Ackee & Salt Fish.jpg",
+    "Name": "Ackee & Salt Fish",
+    "Price": 125.0
+  }
+]
