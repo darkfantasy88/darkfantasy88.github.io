@@ -1,1 +1,18 @@
-{"Name":"Banana Bread (Slice)","Category":"Breakfast Items","Price":75.0,"Image":"System.Drawing.Bitmap","Description":null}
+[
+  
+  {
+    "Name": "Banana Bread (Slice)",
+    "Category": "Breakfast Items",
+    "Price": 75.0,
+    "Image": "System.Drawing.Bitmap",
+    "Description": null
+  },
+  {
+    "Name": "Banana Bread (Slice)",
+    "Category": "Breakfast Items",
+    "Price": 75.0,
+    "Image": "System.Drawing.Bitmap",
+    "Description": null
+  }
+
+]
