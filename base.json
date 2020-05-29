@@ -2,5 +2,6 @@
   "Name": "Pumpkin Juice",
   "Category": "Natural Juices",
   "Price": 120.00,
-  "Image": null
+  "Image": null,
+  "Description": ""
 }
