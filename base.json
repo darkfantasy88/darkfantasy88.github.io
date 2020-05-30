@@ -1,0 +1,23 @@
+[
+{
+  "Name": "June Plum Juice",
+  "Category": "Cold Drinks",
+  "Price": 100.0,
+  "Image": "Images/June Plum Juice.jpg",
+  "Description": null
+},
+{
+  "Name": "Bammy ",
+  "Category": "Breakfast Items",
+  "Price": 75.0,
+  "Image": "Images/Bammy .jpg",
+  "Description": null
+},
+{
+  "Name": "Fried Dumplings",
+  "Category": "Breakfast Items",
+  "Price": 25.0,
+  "Image": "Images/Fried Dumplings.jpg",
+  "Description": null
+}
+]
